@@ -1,5 +1,6 @@
 # JioHotstar--Subscription-Funnel-Analysis
 Product analysis of JioHotstar's user onboarding and subscription funnel, focusing on user journey mapping, friction points, feature prioritization, and success metrics.
+<img width="612" height="342" alt="image" src="https://github.com/user-attachments/assets/13620c31-7923-46d1-bf9d-a2e559f1a1f3" />
 
 ## Project Overview
 
@@ -191,4 +192,5 @@ The proposed solutions aim to:
 ##  Project Files
 
 The complete case study presentation is available in this repository:
+https://github.com/RiyaJhalke/JioHotstar--Subscription-Funnel-Analysis/blob/main/JioHotstar-User%20Onboarding%20and%20Subscription%20Funnel%20Optimization.pdf
 
