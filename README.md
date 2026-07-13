@@ -86,15 +86,15 @@ New users may spend additional time searching for relevant content due to limite
 
 Provide a clear comparison of subscription plans based on price, content access, supported devices, video quality, and subscription duration.
 
-###  P0 — Payment Recovery Flow
+##  P0 — Payment Recovery Flow
 
 Allow users to retry failed transactions or choose alternative payment methods without restarting the subscription process.
 
-###  P1 — Smart Plan Recommendation
+## P1 — Smart Plan Recommendation
 
 Recommend a suitable subscription plan based on the content selected by the user.
 
-###  P2 — Personalized Onboarding
+## P2 — Personalized Onboarding
 
 Allow new users to select their content preferences to improve content discovery and recommendations.
 
